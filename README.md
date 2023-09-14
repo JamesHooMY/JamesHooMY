@@ -3,7 +3,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.cakeresume.com/s--e51iHpaa8LmvL_fFn9rFdg--/sinyong" target="_blank">
-<img src=https://img.shields.io/badge/CakeResume-payton.svg?&style=for-the-badge&logo=C&logoColor=white alt=resume style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/CakeResume-darkgreen.svg?&style=for-the-badge&logo=C&logoColor=white alt=resume style="margin-bottom: 5px;" />
+</a>
+<a href="https://chrome.google.com/webstore/detail/sci-hub-master/hamnpamnpikkcdeimemjcmbffipikidm" target="_blank">
+<img src=https://img.shields.io/badge/Google_extension-4285F4.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white alt=Google-extension style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@hoosinyong" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
@@ -40,4 +43,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=JamesHooMY&show_icons=true&theme=dark" align="left" />  
 
 <br/>  
+
+
 
