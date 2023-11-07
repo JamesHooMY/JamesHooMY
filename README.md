@@ -1,4 +1,4 @@
-## Hi there 👋 I'm James Hoo, a full-stack developer with a strong biotech research background 👨‍💻👨‍🔬
+## 👋 Hi there, I'm James Hoo, a full-stack developer with a strong biotech research background 👨‍💻👨‍🔬
 ### 📠 Contact
 <a href="https://www.linkedin.com/in/james-hoo-29693148/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -15,9 +15,8 @@
 <img src=https://img.shields.io/badge/Google_extension-4285F4.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white alt=Google-extension style="margin-bottom: 5px;" />
 </a>
 
-### 👻 Visitors 
-![Visitor Count](https://profile-counter.glitch.me/JamesHooMY/count.svg)
-
+<br/>
+<br/>
 <br/>
 
 ## 💻 Tech Stack
@@ -45,6 +44,6 @@
 <br/>
 
 ## 🪄 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHooMY&layout=compact&theme=dark" align="left" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api?username=JamesHooMY&show_icons=true&theme=dark" align="left" height="200"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHooMY&layout=compact&theme=dark" align="left" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JamesHooMY&show_icons=true&theme=dark" align="left" height="150"/>  
 
