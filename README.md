@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm James Hoo, a full-stack developer with a strong biotech research background 👨‍💻👨‍🔬
+## 👋 Hi there, I'm James Hoo, a software developer with a strong biotech research background 👨‍💻👨‍🔬
 ### 📠 Contact
 <a href="https://www.linkedin.com/in/james-hoo-29693148/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
