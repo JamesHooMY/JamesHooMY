@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/james-hoo-29693148/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.cakeresume.com/s--e51iHpaa8LmvL_fFn9rFdg--/sinyong" target="_blank">
+<a href="https://www.cakeresume.com/s--IBbAro6gP8dVFq77K7NrZQ--/james_hoo" target="_blank">
 <img src=https://img.shields.io/badge/CakeResume-darkgreen.svg?&style=for-the-badge&logo=C&logoColor=white alt=resume style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@hoosinyong" target="_blank">
