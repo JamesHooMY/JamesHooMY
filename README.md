@@ -3,15 +3,9 @@
 <a href="https://www.linkedin.com/in/james-hoo-29693148/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.cakeresume.com/s--IBbAro6gP8dVFq77K7NrZQ--/james_hoo" target="_blank">
-<img src=https://img.shields.io/badge/CakeResume-darkgreen.svg?&style=for-the-badge&logo=C&logoColor=white alt=resume style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@hoosinyong" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
 
 ### 👊 Contribution
-<a href="https://chrome.google.com/webstore/detail/sci-hub-master/hamnpamnpikkcdeimemjcmbffipikidm" target="_blank">
+<a href="https://chrome-stats.com/d/hamnpamnpikkcdeimemjcmbffipikidm" target="_blank">
 <img src=https://img.shields.io/badge/Google_extension-4285F4.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white alt=Google-extension style="margin-bottom: 5px;" />
 </a>
 
