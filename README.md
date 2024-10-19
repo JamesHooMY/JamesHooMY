@@ -1,4 +1,10 @@
-## 👋 Hi there, I'm James Hoo, a software developer with a strong biotech research background 👨‍💻👨‍🔬
+## 👋 Hi there, I'm James Hoo 👨‍💻 Software Developer👨‍🔬 Biotech Scientist
+<div style="display: flex; align-items: center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHooMY&layout=compact&theme=dark" height="150" style="margin-right: 20px;"/>
+<img src="https://streak-stats.demolab.com/?user=JamesHooMY&hide_longest_streak=true&theme=dark" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JamesHooMY&include_all_commits=true&text_bold=false&hide=contribs&ring_color=FF991C&hide_rank=true&hide_title=true&show_icons=true&rank_icon=github&theme=slateorange&bg_color=151515" height="150" style="margin-right: 20px;"/>
+</div>
+
 ### 📠 Contact
 <a href="https://www.linkedin.com/in/james-hoo-29693148/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -31,10 +37,4 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-<br/>
-
-## 🪄 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHooMY&layout=compact&theme=dark" align="left" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api?username=JamesHooMY&show_icons=true&theme=dark" align="left" height="150"/>  
 
