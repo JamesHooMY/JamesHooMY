@@ -1,20 +1,13 @@
 ## 👋 Hi there, I'm James Hoo 👨‍💻 Software Developer👨‍🔬 Biotech Scientist
+### 🚀 Contribution
+[![Google-extension](https://img.shields.io/badge/Google_extension-4285F4.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chrome-stats.com/d/hamnpamnpikkcdeimemjcmbffipikidm)
+[![Microsoft-edge-add-ons](https://img.shields.io/badge/Microsoft_edge_addons-2bc3d2.svg?&style=for-the-badge&logo=Firefox&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/scihub-master/dafhjmbfhebgmncffeidejhfmohckdcb)
+
 <div style="display: flex; align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHooMY&layout=compact&theme=dark" height="180" style="margin-right: 20px;"/>
 <img src="https://streak-stats.demolab.com/?user=JamesHooMY&hide_longest_streak=true&theme=dark&card_width=338" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api?username=JamesHooMY&card_width=500px&include_all_commits=true&text_bold=false&hide=contribs&ring_color=FF991C&hide_title=true&show_icons=true&rank_icon=github&theme=slateorange&bg_color=151515" height="180" style="margin-right: 20px;"/>
 </div>
-
-### 📠 Contact
-<a href="https://www.linkedin.com/in/james-hoo-29693148/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-### 👊 Contribution
-[![Google-extension](https://img.shields.io/badge/Google_extension-4285F4.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chrome-stats.com/d/hamnpamnpikkcdeimemjcmbffipikidm)
-[![Microsoft-edge](https://img.shields.io/badge/Microsoft_edge-2bc3d2.svg?&style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/scihub-master/dafhjmbfhebgmncffeidejhfmohckdcb?hl=zh-TW&gl=HK&screen_id=%2Fshopback-button-how-it-works&screen_type=campaign&screen_name=%2Fshopback-button-how-it-works&layout_id=22&layout_name=shop_back%E7%8F%BE%E9%87%91%E5%9B%9E%E8%B4%88%E5%B0%8F%E5%B9%AB%E6%89%8B&display_locale=zh-Hant-HK&ui_element_id=123&ui_element_name=Extension_HIW_Web&ui_element_type=banner_grid&ui_element_position=1&feature_id=205&feature_name=Header_3&feature_type=Banner+Grid&feature_position=3&feature_destination_url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fdetail%2Fshopback-%25E7%258F%25BE%25E9%2587%2591%25E5%259B%259E%25E9%25A5%258B%25E5%25B0%258F%25E5%25B9%25AB%25E6%2589%258B%2Fmppnmimhlcolakeoadpehdjljppkmfda%3Fhl%3Dzh-TW%26gl%3DHK&offer_id=205&content_source_name=Banner+Set&content_uid=xjo6f8yWxfpgnnQeRGV2zX_22_123_205)
-
-<br/>
 
 ## 💻 Tech Stack
 ### 📟 Backend
