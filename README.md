@@ -1,13 +1,17 @@
 ## 👋 Hi there, I'm James Hoo 👨‍💻 Software Developer👨‍🔬 Biotech Scientist
-### 🚀 Contribution
-[![Google-extension](https://img.shields.io/badge/Google_extension-4285F4.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chrome-stats.com/d/hamnpamnpikkcdeimemjcmbffipikidm)
-[![Microsoft-edge-add-ons](https://img.shields.io/badge/Microsoft_edge_addons-2bc3d2.svg?&style=for-the-badge&logo=Firefox&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/scihub-master/dafhjmbfhebgmncffeidejhfmohckdcb)
-
 <div style="display: flex; align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHooMY&layout=compact&theme=dark" height="180" style="margin-right: 20px;"/>
 <img src="https://streak-stats.demolab.com/?user=JamesHooMY&hide_longest_streak=true&theme=dark&card_width=338" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api?username=JamesHooMY&card_width=500px&include_all_commits=true&text_bold=false&hide=contribs&ring_color=FF991C&hide_title=true&show_icons=true&rank_icon=github&theme=slateorange&bg_color=151515" height="180" style="margin-right: 20px;"/>
 </div>
+
+<br/>
+
+## 🚀 Contributions to Browser Extensions
+[![Google-extension](https://img.shields.io/badge/Google_extension-4285F4.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chrome-stats.com/d/hamnpamnpikkcdeimemjcmbffipikidm)
+[![Microsoft-edge-add-ons](https://img.shields.io/badge/Microsoft_edge_addons-2bc3d2.svg?&style=for-the-badge&logo=Firefox&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/scihub-master/dafhjmbfhebgmncffeidejhfmohckdcb)
+
+<br/>
 
 ## 💻 Tech Stack
 ### 📟 Backend
