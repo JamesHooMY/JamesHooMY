@@ -1,8 +1,12 @@
 ## 👋 Hi there, I'm James Hoo 👨‍💻 Software Developer👨‍🔬 Biotech Scientist
 <div style="display: flex; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHooMY&layout=compact&theme=dark" height="180" style="margin-right: 20px;"/>
-<img src="https://streak-stats.demolab.com/?user=JamesHooMY&hide_longest_streak=true&theme=dark&card_width=338" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api?username=JamesHooMY&card_width=500px&include_all_commits=true&text_bold=false&hide=contribs&ring_color=FF991C&hide_title=true&show_icons=true&rank_icon=github&theme=slateorange&bg_color=151515" height="180" style="margin-right: 20px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHooMY&layout=compact&theme=dark" height="200" style="margin-right: 20px;"/>
+<img src="https://streak-stats.demolab.com/?user=JamesHooMY&hide_longest_streak=true&theme=dark&card_width=338" height="165"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=JamesHooMY&card_width=589&include_all_commits=true&text_bold=false&hide=contribs&ring_color=FF991C&hide_title=true&show_icons=true&rank_icon=github&theme=slateorange&bg_color=151515" 
+  height="180" 
+  style="margin-right: 20px;"
+/>
 </div>
 
 <br/>
